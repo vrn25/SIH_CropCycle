@@ -4,4 +4,4 @@ from django.apps import AppConfig
 
 
 class PhotosConfig(AppConfig):
-    name = 'mysite.photos'
+    name = 'SIH_CropCycle.photos'
