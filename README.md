@@ -1,5 +1,8 @@
 # SIH_CropCycle
 
+# Description
+This repository contains the code for the university round of the [Smart India Hackathon](https://www.sih.gov.in/), 2020. It includes the web application and the model developed to extract the crop cycle parameters from the given data. The Python notebook contains the analysis we performed on the data provided. The problem statement can be found [here](https://drive.google.com/file/d/19M0aZWZe20bWsid1vtXVuzG6Vt4EhD8F/view?usp=sharing).
+
 # Instructions 
   Procedure to run:
 1) Install require packages in virtual environment using requirements.txt
@@ -17,6 +20,3 @@
 - Shruthan R
 - Nirmal Khedkar
 - Prajna N Hebbar
-
-# Description
-This repo contains the code for the web app and the model developed to extract the crop cycle parameters from the given data. The Python notebook contains the analysis we performed on the data provided.
